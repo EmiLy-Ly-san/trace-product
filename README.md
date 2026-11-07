@@ -1,12 +1,12 @@
 # Trace
 
-Application personnelle de **médiation thérapeutique** — projet de **mémoire Master 2** (développement web / produit), **en cours**.
+Application personnelle de **médiation thérapeutique** - projet de **mémoire Master 2** (développement web / produit), **en cours**.
 
-Ce dépôt documente pour l’instant le cadrage produit et les personas UX. Il est **public** volontairement : travail académique partageable, sans données cliniques réelles.
+Ce dépôt documente pour l’instant le cadrage produit. Il est **public** volontairement : travail académique partageable, sans données cliniques réelles.
 
 ## Qu’est-ce que Trace ?
 
-Trace aide une personne en psychothérapie à **capturer et conserver** des souvenirs, pensées, ressentis ou expériences (texte, photo, audio…) pour y revenir quand elle le souhaite — y compris le jour d’une séance.
+Trace aide une personne en psychothérapie à **capturer et conserver** des souvenirs, pensées, ressentis ou expériences (texte, photo, audio…) pour y revenir quand elle le souhaite, y compris le jour d’une séance.
 
 Trace permet de garder de petits fragments vécus entre les séances, sans les transformer en monitoring ni en diagnostic. L’outil appartient à la personne : elle décide ce qui reste privé et ce qu’elle peut apporter en séance. Déposer une trace est un choix, non une obligation de tout documenter.
 
@@ -26,7 +26,7 @@ Trace permet de garder de petits fragments vécus entre les séances, sans les t
 
 ### Problématique (héritage M1)
 
-Comment concevoir un dispositif numérique qui soutienne l’exploration de la mémoire personnelle dans un contexte thérapeutique, tout en respectant le caractère subjectif et sensible de l’expérience — sans la réduire à une donnée à traiter ?
+Comment concevoir un dispositif numérique qui soutienne l’exploration de la mémoire personnelle dans un contexte thérapeutique, tout en respectant le caractère subjectif et sensible de l’expérience, sans la réduire à une donnée à traiter ?
 
 ### Apports de la recherche
 
@@ -69,8 +69,8 @@ Les personas sont des **profils hypothétiques** destinés à guider la concepti
 
 ## Contenu du dépôt
 
-- [`docs/personas.md`](docs/personas.md) — note méthodologique (P0), personas patients (P1–P6) et secondaires thérapeutes (S1–S3)
-- [`docs/exports/`](docs/exports/) — exports visuels (PNG) du board Personas V1.0
+- [`docs/personas.md`](docs/personas.md) : note méthodologique (P0), personas patients (P1–P6) et secondaires thérapeutes (S1–S3)
+- [`docs/exports/`](docs/exports/) : exports visuels (PNG) du board Personas V1.0
 
 ## Conception
 
@@ -79,7 +79,7 @@ Exports visuels du board Personas V1.0 : [`docs/exports/`](docs/exports/) (ex. [
 
 ## Auteure
 
-Emilie De Duyver — mémoire M2, projet Trace (filiation recherche M1 → conception / développement M2).
+Emilie De Duyver - mémoire M2, projet Trace (filiation recherche M1 → conception / développement M2).
 
 ## Licence / usage
 

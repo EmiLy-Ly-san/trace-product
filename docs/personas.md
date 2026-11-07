@@ -1,17 +1,17 @@
-# Personas Trace — UX V1.0
+# Personas Trace - UX V1.0
 
-> **Source :** board Trace — Personas V1.0 (export figé). Visuels : [`docs/exports/`](exports/) (ex. [`personas-overview.png`](exports/personas-overview.png)).  
+> **Source :** board Trace - Personas V1.0 (export figé). Visuels : [`docs/exports/`](exports/) (ex. [`personas-overview.png`](exports/personas-overview.png)).  
 > **Statut :** profils **hypothétiques** pour la conception. À valider et ajuster avec des entretiens / recherches utilisateurs.  
 > **Rappel :** le patient est le seul utilisateur direct. Les psychothérapeutes sont des personas **secondaires** sans compte ni accès aux contenus.
 
-Ces personas prolongent la problématique M1→M2 : concevoir un espace personnel de traces subjectives (dépôt rapide, partage choisi en séance), sans surveillance ni diagnostic — voir le [README](../README.md#filiation-m1--m2).
+Ces personas prolongent la problématique M1→M2 : concevoir un espace personnel de traces subjectives (dépôt rapide, partage choisi en séance), sans surveillance ni diagnostic, voir le [README](../README.md#filiation-m1--m2).
 
 ---
 
 ## P0 — Note méthodologique
 
 **Badges :** P0 · Tous les personas patients  
-**Titre :** Fiche 0 — Scope personas patients
+**Titre :** Fiche 0 - Scope personas patients
 
 ### Qui est concerné
 
@@ -35,7 +35,7 @@ Utilisateurs directs de Trace.
 
 ---
 
-### P1 — Camille · Conserver et retrouver
+### P1 - Camille · Conserver et retrouver
 
 | | |
 | --- | --- |
@@ -46,7 +46,7 @@ Utilisateurs directs de Trace.
 Le décalage entre le moment où quelque chose prend du sens et le moment où elle pourrait en parler en séance.
 
 **Motivation**  
-Capturer vite une pensée, un événement ou un ressenti pour y revenir quand elle veut — comme le jour de la consultation — sans faire de la thérapie un travail à faire.
+Capturer vite une pensée, un événement ou un ressenti pour y revenir quand elle veut, comme le jour de la consultation, sans faire de la thérapie un travail à faire.
 
 **Besoins**
 
@@ -72,7 +72,7 @@ Rapidité, simplicité, et ne pas culpabiliser l’usage irrégulier.
 
 ---
 
-### P2 — Maxime · Exprimer autrement
+### P2 - Maxime · Exprimer autrement
 
 | | |
 | --- | --- |
@@ -161,7 +161,7 @@ Confidentialité, contrôle, et maîtrise de ce qui est vu pendant une séance.
 Pouvoir utiliser Trace quand elle le veut, sans que l’app augmente sa détresse ni impose de revenir sur des contenus difficiles à revoir.
 
 **Motivation**  
-Conserver ce qu’elle ressent certaines périodes, mais pouvoir s’éloigner d’autres souvenirs — pas d’objectif de régularité qui serait stressant et décourageant.
+Conserver ce qu’elle ressent certaines périodes, mais pouvoir s’éloigner d’autres souvenirs - pas d’objectif de régularité qui serait stressant et décourageant.
 
 **Besoins**
 
@@ -202,7 +202,7 @@ Sécurité psychologique et absence de pression d’usage ; ne pas présenter l�
 Retrouver ses réflexions pour alimenter son travail thérapeutique, sans que Trace entraîne une sur-intellectualisation qui remplacerait le contact émotionnel en séance.
 
 **Motivation**  
-Conserver, relier et retrouver ses notes pour préparer ses séances — utile, mais à risque de sur-utilisation.
+Conserver, relier et retrouver ses notes pour préparer ses séances: utile, mais à risque de sur-utilisation.
 
 **Besoins**
 
