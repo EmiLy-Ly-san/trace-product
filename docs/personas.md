@@ -184,7 +184,7 @@ Conserver ce qu’elle ressent certaines périodes, mais pouvoir s’éloigner d
 - Relecture qui accentue la détresse psychique
 
 **Implication Trace**  
-Référence vulnérabilité et parcours d’exception. L’outil s’adapte à la disponibilité psychique — pas l’inverse. Ne pas la réduire à un diagnostic.
+Référence vulnérabilité et parcours d’exception. L’outil s’adapte à la disponibilité psychique, pas l’inverse. Ne pas la réduire à un diagnostic.
 
 **Priorité UX**  
 Sécurité psychologique et absence de pression d’usage ; ne pas présenter l’outil comme un dispositif d’urgence.
