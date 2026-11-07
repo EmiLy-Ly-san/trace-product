@@ -109,7 +109,7 @@ Liberté des formats ; capture simple et immédiate possible.
 
 ---
 
-### P3 — Sarah · Protéger son intimité
+### P3 - Sarah · Protéger son intimité
 
 | | |
 | --- | --- |
@@ -150,7 +150,7 @@ Confidentialité, contrôle, et maîtrise de ce qui est vu pendant une séance.
 
 ---
 
-### P4 — Léa · Utiliser sans pression
+### P4 - Léa · Utiliser sans pression
 
 | | |
 | --- | --- |
@@ -191,7 +191,7 @@ Sécurité psychologique et absence de pression d’usage ; ne pas présenter l�
 
 ---
 
-### P5 — Nicolas · Organiser et analyser
+### P5 - Nicolas · Organiser et analyser
 
 | | |
 | --- | --- |
@@ -228,7 +228,7 @@ Recherche et maîtrise des catégories, sans alimenter les ruminations.
 
 ---
 
-### P6 — Jeanne · Utiliser simplement
+### P6 - Jeanne · Utiliser simplement
 
 | | |
 | --- | --- |
@@ -268,7 +268,7 @@ Compréhension immédiate et accessibilité.
 
 ---
 
-## Personas secondaires — psychothérapeutes
+## Personas secondaires - psychothérapeutes
 
 Ils influencent l’expérience **sans utiliser Trace**.
 
@@ -280,7 +280,7 @@ Ils influencent l’expérience **sans utiliser Trace**.
 
 ---
 
-### S1 — Sophie · Préserver le cadre thérapeutique
+### S1 - Sophie · Préserver le cadre thérapeutique
 
 | | |
 | --- | --- |
@@ -316,7 +316,7 @@ Ne jamais imposer de méthode de travail au professionnel ni au patient. L’out
 
 ---
 
-### S2 — Julien · Utiliser des supports thérapeutiques
+### S2 - Julien · Utiliser des supports thérapeutiques
 
 | | |
 | --- | --- |
@@ -348,7 +348,7 @@ Adaptabilité aux différentes approches thérapeutiques sans transformer les tr
 
 ---
 
-### S3 — Claire · Accompagner des situations complexes
+### S3 - Claire · Accompagner des situations complexes
 
 | | |
 | --- | --- |
