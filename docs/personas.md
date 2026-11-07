@@ -29,7 +29,7 @@ Réduire une personne à un diagnostic ; imposer une préparation de séance ; s
 
 ---
 
-## Personas principaux — patients
+## Personas principaux - patients
 
 Utilisateurs directs de Trace.
 
