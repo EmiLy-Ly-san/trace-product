@@ -8,7 +8,7 @@ Ces personas prolongent la problématique M1→M2 : concevoir un espace personne
 
 ---
 
-## P0 — Note méthodologique
+## P0 - Note méthodologique
 
 **Badges :** P0 · Tous les personas patients  
 **Titre :** Fiche 0 - Scope personas patients
