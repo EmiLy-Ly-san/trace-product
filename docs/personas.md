@@ -288,7 +288,7 @@ Ils influencent l’expérience **sans utiliser Trace**.
 | **Profil** | 48 ans · Psychologue clinicienne · 17 ans d’expérience · Cabinet libéral · Approche intégrative · Séances 45–50 min |
 
 **Tension centrale**  
-L’essentiel se joue dans la relation et la parole. Les supports sont acceptés seulement s’ils aident le patient — jamais de façon systématique et obligatoire.
+L’essentiel se joue dans la relation et la parole. Les supports sont acceptés seulement s’ils aident le patient, jamais de façon systématique et obligatoire.
 
 **Motivation**  
 Accueillir ce que le patient apporte (notes, photo, récit), mais Trace ne doit pas transformer la séance en revue de notes, ni créer une obligation de « rendu » pour le patient.
